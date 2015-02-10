@@ -1,0 +1,15 @@
+Package: epvclust
+Version: 1.0
+Title: Optimizazion in C of Hierarchical Clustering with P-Values via Multiscale
+	   Bootstrap Resampling
+Author: Emanuele Pesce
+Maintainer: Emanuele Pesce <emanuelepesce.ep@gmail.it>
+Description: An implementation in C of a optmized version of multiscale
+             bootstrap resampling for assessing the uncertainty in hierarchical
+             cluster analysis.
+             It provides AU (approximately unbiased) p-value as well as
+             BP (bootstrap probability) value for each cluster in a dendrogram.
+Depends: R (>= 2.6.0)
+Suggests: MASS
+License: GPL (>= 2)
+NeedsCompilation: yes
