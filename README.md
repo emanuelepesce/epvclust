@@ -25,7 +25,7 @@ This folder contains the C code for computing multiscale bootstrap.
 Main file: "pvclust.c".
 
 ### exampleData
-This folder contains varius dataset with different sizes.
+This folder contains various dataset with different sizes.
 
 ##Authors
 [Emanuele Pesce](https://github.com/emanuelepesce) - [University of Salerno] (http://www.unisa.it)
