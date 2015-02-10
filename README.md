@@ -6,7 +6,7 @@ This is an optimized version of R "pvclust" package (http://www.sigmath.es.osaka
 It does the same work of pvclust for assessing the uncertainty in hierarchical cluster analysis, but with better performance (mostly on time performance).
 
 It's available an offline installable R package.
-It's also available the C code for doing the multiscale bootstrap.
+It's also available the C code for doing multiscale bootstrap.
 
 
 ##About Pvclust
