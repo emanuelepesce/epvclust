@@ -2,15 +2,15 @@ epvclust
 ===========================
 
 ##About
-This is an optimized version of R "pvclust" package (http://www.sigmath.es.osaka-u.ac.jp/shimo-lab/prog/pvclust).
-It does the same work of pvclust for assessing the uncertainty in hierarchical cluster analysis, but with better performance (mostly on time performance).
+"epvclust" is an optimized version of R "pvclust" package (http://www.sigmath.es.osaka-u.ac.jp/shimo-lab/prog/pvclust).
+It performs the same work of pvclust for assessing the uncertainty in hierarchical cluster analysis, but with better performance (mostly on time performance).
 
 It's available an offline installable R package.
 It's also available the C code for doing multiscale bootstrap.
 
 
 ##About Pvclust
-- [What is it and what it does] (http://www.sigmath.es.osaka-u.ac.jp/shimo-lab/prog/pvclust/)
+- [Official page] (http://www.sigmath.es.osaka-u.ac.jp/shimo-lab/prog/pvclust/)
 - [Theory about multiscale bootstrap] (http://www.is.titech.ac.jp/~shimo/multiboot.html)
 
 ##Contents
