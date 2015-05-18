@@ -16,7 +16,7 @@ It's also available the C code for doing multiscale bootstrap.
 ##Contents
 
 ### R
-This folder contains the R epvclust package. For install it execute the file "install.R" with RStudio ("Devtools" R package is a dependency).
+This folder contains the R epvclust package. For install it execute the file "install.R" with RStudio ("Devtools" R package is a required dependency).
 
 "install.R" contains also a runnable example.
 
